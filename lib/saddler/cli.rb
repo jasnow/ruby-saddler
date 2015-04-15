@@ -69,7 +69,8 @@ module Saddler
       end
 
       def add_reporter(options)
-        reporter = Reporter.add_reporter(options[:reporter], $stdout) if options[:reporter]
+        reporter = Reporter.add_reporter(
+          options[:reporter], $stdout) if options[:reporter]
         fail NoReporterError unless reporter
         logger.info('use reporter')
         logger.info(reporter)
