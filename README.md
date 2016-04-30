@@ -97,7 +97,10 @@ You can send pull request to repos below. Try this!
 * [jser/jser.github.ioの記事をpull request時にLintする仕組み | Web Scratch](http://efcl.info/2015/03/04/linting-article/)
 * [変更したファイルにrubocopやjscsを実行して pull requestに自動でコメントする – Saddler - checkstyle to anywhere](http://packsaddle.org/articles/saddler-overview/)
 * [CircleCI - Androidのコードを自動で解析し、GitHubのpull requestにコメントする - Qiita](http://qiita.com/noboru_i/items/2f30296db1c8a6dfbd9b)
+* [pull requestした差分にrubocopの結果を自動でコメントしてCircleCIをfailedにするよ - Qiita](http://qiita.com/nifuramu/items/e7490e86b7b67d99ac87)
 
+### vi
+* [Saddler – công cụ giúp CI chạy rubocop và comment lỗi trực tiếp vào pull request. – Appconus Blog](http://blog.appconus.com/2015/11/19/saddler-cong-cu-giup-ci-chay-rubocop-va-comment-loi-truc-tiep-vao-pull-request/)
 
 ## VS.
 
