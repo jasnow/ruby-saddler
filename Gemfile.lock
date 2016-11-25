@@ -42,7 +42,7 @@ GEM
     saddler-reporter-text (1.0.0)
     sexp_processor (4.7.0)
     slop (4.1.0)
-    test-unit (3.2.2)
+    test-unit (3.2.3)
       power_assert
     thor (0.19.1)
     unicode-display_width (1.1.1)
