@@ -40,7 +40,7 @@ GEM
     ruby_parser (3.8.4)
       sexp_processor (~> 4.1)
     saddler-reporter-text (1.0.0)
-    sexp_processor (4.7.0)
+    sexp_processor (4.8.0)
     slop (4.1.0)
     test-unit (3.2.3)
       power_assert
