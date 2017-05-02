@@ -42,7 +42,7 @@ GEM
       sexp_processor (~> 4.1)
     saddler-reporter-text (1.0.0)
     sexp_processor (4.9.0)
-    slop (4.1.0)
+    slop (4.4.3)
     test-unit (3.2.3)
       power_assert
     thor (0.19.4)
@@ -59,7 +59,7 @@ DEPENDENCIES
   rake
   rubocop
   saddler!
-  slop (= 4.1.0)
+  slop (= 4.4.3)
   test-unit
 
 BUNDLED WITH
