@@ -2,7 +2,7 @@ module Saddler
   module Reporter
     def self.add_reporter(reporter_type, output = nil)
       reporter = custom_reporter_class(reporter_type)
-      output = $stdout unless output
+      output ||= $stdout
       reporter.new(output)
     end
 

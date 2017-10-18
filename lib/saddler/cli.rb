@@ -7,7 +7,7 @@ module Saddler
     end
 
     desc 'version', 'Show the Saddler version'
-    map %w(-v --version) => :version
+    map %w[-v --version] => :version
 
     def version
       puts "Saddler version #{::Saddler::VERSION}"
