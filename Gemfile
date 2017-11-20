@@ -5,4 +5,4 @@ gemspec
 gem 'byebug' if RUBY_VERSION >= '2.0.0'
 gem 'pry'
 gem 'rubocop' if RUBY_VERSION >= '2.0.0'
-gem 'slop', '4.4.3' if RUBY_VERSION >= '2.0.0'
+gem 'slop', '4.6.1' if RUBY_VERSION >= '2.0.0'
