@@ -38,7 +38,7 @@ GEM
       unicode-display_width (~> 1.0, >= 1.0.1)
     ruby-progressbar (1.9.0)
     saddler-reporter-text (1.0.0)
-    slop (4.6.1)
+    slop (4.6.2)
     test-unit (3.2.7)
       power_assert
     thor (0.20.0)
@@ -55,7 +55,7 @@ DEPENDENCIES
   rake
   rubocop
   saddler!
-  slop (= 4.6.1)
+  slop (= 4.6.2)
   test-unit
 
 BUNDLED WITH
