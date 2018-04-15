@@ -16,7 +16,7 @@ GEM
     ffi (1.9.23)
     iniparse (1.4.4)
     method_source (0.9.0)
-    overcommit (0.44.0)
+    overcommit (0.45.0)
       childprocess (~> 0.6, >= 0.6.3)
       iniparse (~> 1.4)
     parallel (1.12.1)
