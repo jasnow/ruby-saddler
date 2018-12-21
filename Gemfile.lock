@@ -44,7 +44,7 @@ GEM
     test-unit (3.2.9)
       power_assert
     thor (0.20.3)
-    unicode-display_width (1.4.0)
+    unicode-display_width (1.4.1)
 
 PLATFORMS
   ruby
