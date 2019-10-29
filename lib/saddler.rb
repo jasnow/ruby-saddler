@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'logger'
 require 'saddler/reporter/text'
 require 'rexml/document'
@@ -17,6 +19,7 @@ module Saddler
 
   def self.logger
     return @logger if @logger
+
     @logger = default_logger
   end
 

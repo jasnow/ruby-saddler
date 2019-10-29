@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Saddler
   class Validator
     # NOTE: This is easy check

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Saddler
   class NoInputError < StandardError; end
   class NoReporterError < StandardError; end

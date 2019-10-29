@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'thor'
 
 module Saddler
@@ -71,6 +73,7 @@ module Saddler
       def add_reporter(options)
         reporter = Reporter.add_reporter(options[:reporter], $stdout) if options[:reporter]
         raise NoReporterError unless reporter
+
         logger.info('use reporter')
         logger.info(reporter)
         reporter

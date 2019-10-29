@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Saddler
   module Reporter
     def self.add_reporter(reporter_type, output = nil)
