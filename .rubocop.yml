@@ -9,7 +9,7 @@ Style/Documentation:
 Metrics/LineLength:
   Max: 100
 
-Style/FileName:
+Style/Naming:
   Exclude:
     - exe/*
 
