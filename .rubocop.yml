@@ -9,9 +9,10 @@ Style/Documentation:
 Metrics/LineLength:
   Max: 100
 
-Style/Naming:
-  Exclude:
-    - exe/*
+# 11/23/2019: To fix: Warning: unrecognized cop Style/Naming found in .rubocop.yml
+#Style/Naming:
+#  Exclude:
+#    - exe/*
 
 Style/RegexpLiteral:
   EnforcedStyle: mixed
