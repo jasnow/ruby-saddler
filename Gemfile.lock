@@ -39,7 +39,7 @@ GEM
     slop (4.6.2)
     test-unit (3.3.4)
       power_assert
-    thor (1.0.0)
+    thor (1.0.1)
     unicode-display_width (1.6.0)
 
 PLATFORMS
