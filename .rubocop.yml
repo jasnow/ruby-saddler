@@ -3,16 +3,25 @@ AllCops:
     - 'bundle_bin/*'
     - 'vendor/bundle/**/*'
 
+Layouy/LineLength:
+  Max: 100
+
 Style/Documentation:
   Enabled: false
 
-Metrics/LineLength:
-  Max: 100
+Style/HashEachMethods:
+  Enabled: false
+
+Style/HashTransformKeys:
+  Enabled: false
+
+Style/HashTransformValues:
+  Enabled: false
+
+Style/RegexpLiteral:
+  EnforcedStyle: mixed
 
 # 11/23/2019: To fix: Warning: unrecognized cop Style/Naming found in .rubocop.yml
 #Style/Naming:
 #  Exclude:
 #    - exe/*
-
-Style/RegexpLiteral:
-  EnforcedStyle: mixed
