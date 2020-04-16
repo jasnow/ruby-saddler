@@ -27,6 +27,12 @@ Lint/RaiseException:
 Lint/StructNewOverride:
   Enabled: true
 
+Layout/SpaceAroundMethodCallOperator:
+  Enabled: true
+
+Style/ExponentialNotation:
+  Enabled: true
+
 # 11/23/2019: To fix: Warning: unrecognized cop Style/Naming found in .rubocop.yml
 #Style/Naming:
 #  Exclude:
