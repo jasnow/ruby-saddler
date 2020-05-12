@@ -37,3 +37,9 @@ Style/ExponentialNotation:
 #Style/Naming:
 #  Exclude:
 #    - exe/*
+
+Layout/EmptyLinesAroundAttributeAccessor:
+  Enabled: true
+
+Style/SlicingWithRange:
+  Enabled: true
