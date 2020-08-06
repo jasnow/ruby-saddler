@@ -11,7 +11,7 @@ require 'saddler/version'
 
 module Saddler
   def self.default_logger
-    logger = Logger.new(STDERR)
+    logger = Logger.new($stderr)
     logger.progname = 'Saddler'
     logger.level = Logger::WARN
     logger
