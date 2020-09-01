@@ -2,6 +2,7 @@ AllCops:
   Exclude:
     - 'bundle_bin/*'
     - 'vendor/bundle/**/*'
+  NewCops: enable
 
 Layout/LineLength:
   Max: 100
