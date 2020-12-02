@@ -56,7 +56,7 @@ DEPENDENCIES
   overcommit
   pry
   rake
-  rubocop
+  rubocop (= 1.4.2)
   saddler!
   slop (= 4.6.2)
   test-unit
