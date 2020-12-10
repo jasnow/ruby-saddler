@@ -28,7 +28,7 @@ GEM
     rake (13.0.1)
     regexp_parser (2.0.0)
     rexml (3.2.4)
-    rubocop (1.6.0)
+    rubocop (1.6.1)
       parallel (~> 1.10)
       parser (>= 2.7.1.5)
       rainbow (>= 2.2.2, < 4.0)
@@ -49,6 +49,7 @@ GEM
 
 PLATFORMS
   ruby
+  x86_64-darwin-16
 
 DEPENDENCIES
   bundler
@@ -62,4 +63,4 @@ DEPENDENCIES
   test-unit
 
 BUNDLED WITH
-   2.1.4
+   2.2.0
