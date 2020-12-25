@@ -28,7 +28,7 @@ GEM
     rake (13.0.3)
     regexp_parser (2.0.1)
     rexml (3.2.4)
-    rubocop (1.6.1)
+    rubocop (1.7.0)
       parallel (~> 1.10)
       parser (>= 2.7.1.5)
       rainbow (>= 2.2.2, < 4.0)
@@ -42,14 +42,13 @@ GEM
     ruby-progressbar (1.10.1)
     saddler-reporter-text (1.0.0)
     slop (4.6.2)
-    test-unit (3.3.7)
+    test-unit (3.3.8)
       power_assert
     thor (1.0.1)
     unicode-display_width (1.7.0)
 
 PLATFORMS
   x86_64-darwin-16
-  x86_64-linux
 
 DEPENDENCIES
   bundler
