@@ -42,7 +42,7 @@ GEM
     ruby-progressbar (1.10.1)
     saddler-reporter-text (1.0.0)
     slop (4.6.2)
-    test-unit (3.3.8)
+    test-unit (3.3.9)
       power_assert
     thor (1.0.1)
     unicode-display_width (1.7.0)
